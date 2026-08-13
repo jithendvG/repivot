@@ -34,7 +34,7 @@ double-click.
 
 Found a bug or something that felt wrong? Two ways to tell us:
 
-- **In the app:** hit the **👎** — it files a report straight to this repo.
+Feedback from the app is collected privately — the in-app 👎 control files reports to the development tracker (screenshots and reports are never published here).
 - **Here on GitHub:** [open an issue](https://github.com/jithendvG/repivot/issues/new) directly.
 
 Concrete details help most: what you were doing, what you expected, and what
